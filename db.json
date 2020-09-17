@@ -1,0 +1,14 @@
+{
+    "livros":[
+        {
+            "id": 1,
+            "nome": "Introdução à programação",
+            "valor": 30.0
+        },
+        {
+            "id": 2,
+            "nome": "APIs Restful na prática",
+            "valor": 20.0
+        }
+    ]
+}
