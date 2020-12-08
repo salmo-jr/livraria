@@ -3,11 +3,13 @@
         {
             "id": 1,
             "nome": "Introdução à programação",
+            "autor": "foto01.jpg",
             "valor": 30.0
         },
         {
             "id": 2,
             "nome": "APIs Restful na prática",
+            "autor": "foto02.jpg",
             "valor": 20.0
         }
     ]
